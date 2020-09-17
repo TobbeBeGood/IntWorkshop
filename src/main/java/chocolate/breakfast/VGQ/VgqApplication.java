@@ -8,6 +8,7 @@ public class VgqApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VgqApplication.class, args);
+
 	}
 
 }
